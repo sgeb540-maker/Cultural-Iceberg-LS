@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260605222116F1Y2Q7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260605222116KP51Y9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>The Cultural Iceberg Project: Understanding visible and invisible culture</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Commonwealth Day and Culture</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Steffi Gebhardt</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>The Cultural Iceberg is a project-based learning resource designed for 2nd year secondary students (2º ESO). Through the exploration of Commonwealth cultures, learners discover both visible and invisible aspects of culture using the Cultural Iceberg model. The project promotes intercultural awareness, critical thinking, communication skills and respect for diversity. Students analyse texts and videos, compare cultures, collaborate in groups and create a digital infographic to present their findings. The resource integrates digital tools such as Google Classroom, Canva and Genially while encouraging responsible, safe and creative use of technology.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780677507214</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780677451542-ijdtr6qco</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del Proyecto (Tarea 2.1)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del Proyecto (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación del Proyecto (Tarea 2.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677451542-ijdtr6qco</odePageId>
+      <odeBlockId>block-1780679730741-ud8aildnc</odeBlockId>
+      <blockName>The Cultural Iceberg Concept</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677451542-ijdtr6qco</odePageId>
+          <odeBlockId>block-1780679730741-ud8aildnc</odeBlockId>
+          <odeIdeviceId>idevice-1780679730740-922yaylz2</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780679730740-922yaylz2" title="The Cultural Iceber Concept" href="{{context_path}}/content/resources/Cultural Iceberg.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Cultural Iceberg.png" height="128" width="128" title="The Cultural Iceber Concept" alt="The Cultural Iceber Concept" titlelink="" author="Steffi Gebhardt / ChatGPT" authorlink="" license="Creative Commons BY-SA 4.0." licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679730740-922yaylz2","img_0":{"img":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","thumbnail":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","title":"The Cultural Iceber Concept","linktitle":"","author":"Steffi Gebhardt / ChatGPT","linkauthor":"","license":"Creative Commons BY-SA 4.0."}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677537365-ng6w5ybd3</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Centro de interés o temática</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Centro de interés o temática</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677537365-ng6w5ybd3</odePageId>
+      <odeBlockId>block-1780677789572-kh3w62b6t</odeBlockId>
+      <blockName>Centro de interés</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677537365-ng6w5ybd3</odePageId>
+          <odeBlockId>block-1780677789572-kh3w62b6t</odeBlockId>
+          <odeIdeviceId>idevice-1780677789571-wda31o2n3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La diversidad cultural y la comprensión intercultural a través del modelo del “iceberg cultural”, tomando como referencia países de la Commonwealth y otras culturas del mundo. La situación de aprendizaje se centra en ayudar al alumnado a comprender que existen elementos culturales visibles (comida, ropa, música, festividades…) y otros menos visibles o profundos (valores, normas sociales, formas de comunicación o creencias).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780677789571-wda31o2n3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La diversidad cultural y la comprensión intercultural a través del modelo del “iceberg cultural”, tomando como referencia países de la Commonwealth y otras culturas del mundo. La situación de aprendizaje se centra en ayudar al alumnado a comprender que existen elementos culturales visibles (comida, ropa, música, festividades…) y otros menos visibles o profundos (valores, normas sociales, formas de comunicación o creencias).</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677619884-e6pmvqpo6</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Nivel y temporalización</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel y temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nivel y temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677619884-e6pmvqpo6</odePageId>
+      <odeBlockId>block-1780677877464-4o765hbm1</odeBlockId>
+      <blockName>Nivel y temporalización</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677619884-e6pmvqpo6</odePageId>
+          <odeBlockId>block-1780677877464-4o765hbm1</odeBlockId>
+          <odeIdeviceId>idevice-1780677877463-98hbkryoh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Nivel:</strong> 2º ESO</p>
+<p><strong>Temporalización: </strong>8 sesiones de 60 minutos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780677877463-98hbkryoh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Nivel:</strong> 2º ESO</p>\n<p><strong>Temporalización: </strong>8 sesiones de 60 minutos</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677635112-zjndt5mb6</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Materias implicadas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materias implicadas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677635112-zjndt5mb6</odePageId>
+      <odeBlockId>block-1780677959814-om6uuroqd</odeBlockId>
+      <blockName>Materias implicadas</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677635112-zjndt5mb6</odePageId>
+          <odeBlockId>block-1780677959814-om6uuroqd</odeBlockId>
+          <odeIdeviceId>idevice-1780677959813-t8be4zy5m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Principalmente Inglés, con posibles conexiones interdisciplinares con Geografía e Historia y Educación en Valores Cívicos y Éticos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780677959813-t8be4zy5m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Principalmente Inglés, con posibles conexiones interdisciplinares con Geografía e Historia y Educación en Valores Cívicos y Éticos.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677699602-blypb2wjm</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Idioma</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Idioma</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677699602-blypb2wjm</odePageId>
+      <odeBlockId>block-1780678001884-l5gipigxc</odeBlockId>
+      <blockName>Idioma</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677699602-blypb2wjm</odePageId>
+          <odeBlockId>block-1780678001884-l5gipigxc</odeBlockId>
+          <odeIdeviceId>idevice-1780678001883-omb1edwlg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Inglés, con apoyos puntuales en español para alumnado con necesidades específicas de apoyo educativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678001883-omb1edwlg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Inglés, con apoyos puntuales en español para alumnado con necesidades específicas de apoyo educativo.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677710724-1iqxrrkd8</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción general de lo que se pretende que el alumnado aprenda o trabaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677710724-1iqxrrkd8</odePageId>
+      <odeBlockId>block-1780678029088-v8qzbpcn5</odeBlockId>
+      <blockName>descripción SdA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677710724-1iqxrrkd8</odePageId>
+          <odeBlockId>block-1780678029088-v8qzbpcn5</odeBlockId>
+          <odeIdeviceId>idevice-1780678029087-8zg1isiga</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A través de esta situación de aprendizaje, el alumnado trabajará la competencia comunicativa en inglés mediante actividades relacionadas con la diversidad cultural y la comunicación intercultural. El alumnado analizará ejemplos de cultura visible e invisible, reflexionará sobre posibles malentendidos culturales y desarrollará actitudes de respeto y empatía hacia otras culturas.</p>
+<p style="text-align: justify;">La SdA combinará metodologías activas y herramientas digitales. Se utilizarán recursos visuales, vídeos, presentaciones digitales y actividades cooperativas para favorecer un aprendizaje significativo y participativo. El alumnado realizará pequeñas tareas de investigación guiada sobre distintos países o culturas y elaborará un producto digital final (infografía, póster interactivo o presentación digital) en el que identificará y explicará diferentes elementos culturales.</p>
+<p style="text-align: justify;">Además, se trabajarán estrategias de mediación, comprensión y producción oral y escrita, así como la búsqueda, selección y organización crítica de información digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678029087-8zg1isiga","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A través de esta situación de aprendizaje, el alumnado trabajará la competencia comunicativa en inglés mediante actividades relacionadas con la diversidad cultural y la comunicación intercultural. El alumnado analizará ejemplos de cultura visible e invisible, reflexionará sobre posibles malentendidos culturales y desarrollará actitudes de respeto y empatía hacia otras culturas.</p>\n<p style=\"text-align: justify;\">La SdA combinará metodologías activas y herramientas digitales. Se utilizarán recursos visuales, vídeos, presentaciones digitales y actividades cooperativas para favorecer un aprendizaje significativo y participativo. El alumnado realizará pequeñas tareas de investigación guiada sobre distintos países o culturas y elaborará un producto digital final (infografía, póster interactivo o presentación digital) en el que identificará y explicará diferentes elementos culturales.</p>\n<p style=\"text-align: justify;\">Además, se trabajarán estrategias de mediación, comprensión y producción oral y escrita, así como la búsqueda, selección y organización crítica de información digital.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677738199-3b2qe2a5j</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Justificación de la elección sobre la base de la rutina de pensamiento </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de la elección sobre la base de la rutina de pensamiento </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677738199-3b2qe2a5j</odePageId>
+      <odeBlockId>block-1780678083241-0blpateup</odeBlockId>
+      <blockName>¿Por qué elegir esta SdA?</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677738199-3b2qe2a5j</odePageId>
+          <odeBlockId>block-1780678083241-0blpateup</odeBlockId>
+          <odeIdeviceId>idevice-1780678083240-piws73ih9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La elección de esta situación de aprendizaje parte de la reflexión realizada en la tarea anterior sobre mi práctica docente digital y el uso de metodologías activas en el aula de Inglés. Tras analizar experiencias previas, observé que el alumnado muestra una mayor motivación e implicación cuando las actividades se relacionan con situaciones reales, contenidos visuales y herramientas digitales cercanas a su realidad.</p>
+<p style="text-align: justify;">Asimismo, durante la reflexión detecté la importancia de planificar cuidadosamente las actividades digitales y proporcionar apoyos claros y estructurados, especialmente en grupos heterogéneos y con distintos niveles competenciales. También comprobé que las metodologías activas favorecen la participación del alumnado y permiten trabajar competencias lingüísticas, digitales y sociales de manera integrada.</p>
+<p style="text-align: justify;">Por ello, esta SdA pretende combinar recursos digitales accesibles y metodologías cooperativas con una temática cercana y motivadora como es la diversidad cultural. El modelo del “iceberg cultural” permite trabajar no solo contenidos lingüísticos en inglés, sino también valores relacionados con la empatía, el respeto y la comprensión intercultural.</p>
+<p style="text-align: justify;">Además, la propuesta facilita la adaptación a distintos ritmos y necesidades del alumnado mediante apoyos visuales, tareas guiadas y diferentes posibilidades de participación y producción final, siguiendo principios relacionados con el Diseño Universal para el Aprendizaje (DUA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678083240-piws73ih9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La elección de esta situación de aprendizaje parte de la reflexión realizada en la tarea anterior sobre mi práctica docente digital y el uso de metodologías activas en el aula de Inglés. Tras analizar experiencias previas, observé que el alumnado muestra una mayor motivación e implicación cuando las actividades se relacionan con situaciones reales, contenidos visuales y herramientas digitales cercanas a su realidad.</p>\n<p style=\"text-align: justify;\">Asimismo, durante la reflexión detecté la importancia de planificar cuidadosamente las actividades digitales y proporcionar apoyos claros y estructurados, especialmente en grupos heterogéneos y con distintos niveles competenciales. También comprobé que las metodologías activas favorecen la participación del alumnado y permiten trabajar competencias lingüísticas, digitales y sociales de manera integrada.</p>\n<p style=\"text-align: justify;\">Por ello, esta SdA pretende combinar recursos digitales accesibles y metodologías cooperativas con una temática cercana y motivadora como es la diversidad cultural. El modelo del “iceberg cultural” permite trabajar no solo contenidos lingüísticos en inglés, sino también valores relacionados con la empatía, el respeto y la comprensión intercultural.</p>\n<p style=\"text-align: justify;\">Además, la propuesta facilita la adaptación a distintos ritmos y necesidades del alumnado mediante apoyos visuales, tareas guiadas y diferentes posibilidades de participación y producción final, siguiendo principios relacionados con el Diseño Universal para el Aprendizaje (DUA).</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677752033-feoad880p</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Herramientas digitales previstas</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales previstas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677752033-feoad880p</odePageId>
+      <odeBlockId>block-1780678125657-3d41wnc0p</odeBlockId>
+      <blockName>Herramientas</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677752033-feoad880p</odePageId>
+          <odeBlockId>block-1780678125657-3d41wnc0p</odeBlockId>
+          <odeIdeviceId>idevice-1780678125656-ip6pzes0l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para el desarrollo de la SdA se utilizarán diferentes herramientas digitales adaptadas al nivel del alumnado, como Google Classroom para compartir materiales y tareas, Canva o Genially para la creación de productos digitales, vídeos educativos y recursos visuales interactivos. También se fomentará el uso responsable y crítico de la información digital y el respeto a los derechos de autor mediante el uso de imágenes y recursos con licencia adecuada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678125656-ip6pzes0l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para el desarrollo de la SdA se utilizarán diferentes herramientas digitales adaptadas al nivel del alumnado, como Google Classroom para compartir materiales y tareas, Canva o Genially para la creación de productos digitales, vídeos educativos y recursos visuales interactivos. También se fomentará el uso responsable y crítico de la información digital y el respeto a los derechos de autor mediante el uso de imágenes y recursos con licencia adecuada.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780677785569-4yh0aem2m</odePageId>
+  <odeParentPageId>page-1780677451542-ijdtr6qco</odeParentPageId>
+  <pageName>Producto final del alumnado</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780677785569-4yh0aem2m</odePageId>
+      <odeBlockId>block-1780678156475-pukfs86k9</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780677785569-4yh0aem2m</odePageId>
+          <odeBlockId>block-1780678156475-pukfs86k9</odeBlockId>
+          <odeIdeviceId>idevice-1780678156474-0ygqydr47</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como producto final, el alumnado elaborará de forma cooperativa una presentación digital, infografía o póster interactivo sobre una cultura o país trabajado durante la situación de aprendizaje. En dicho producto deberán identificar elementos visibles e invisibles de la cultura analizada, explicar posibles diferencias culturales y presentar la información de forma clara, visual y organizada utilizando herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678156474-0ygqydr47","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como producto final, el alumnado elaborará de forma cooperativa una presentación digital, infografía o póster interactivo sobre una cultura o país trabajado durante la situación de aprendizaje. En dicho producto deberán identificar elementos visibles e invisibles de la cultura analizada, explicar posibles diferencias culturales y presentar la información de forma clara, visual y organizada utilizando herramientas digitales.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780678219884-they5mr6d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Protección de datos y derechos digitales (Tarea 2.3)</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y derechos digitales (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Protección de datos y derechos digitales (Tarea 2.3)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780678219884-they5mr6d</odePageId>
+      <odeBlockId>block-1780678223812-cudplpm3w</odeBlockId>
+      <blockName>Digital Safety</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780678219884-they5mr6d</odePageId>
+          <odeBlockId>block-1780678223812-cudplpm3w</odeBlockId>
+          <odeIdeviceId>idevice-1780678223810-6v6pnkuxq</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780678223810-6v6pnkuxq" title="Digital Safety" href="{{context_path}}/content/resources/Digital Safety.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Digital Safety.jpg" height="128" width="128" title="Digital Safety" alt="Digital Safety" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/rek8fvgqr3c05ss" license="Creative Commons BY-SA 4.0." licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678223810-6v6pnkuxq","img_0":{"img":"blob:app://localhost/14450bc2-9408-4f13-a0a3-5e3660e16563","thumbnail":"blob:app://localhost/14450bc2-9408-4f13-a0a3-5e3660e16563","title":"Digital Safety","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/rek8fvgqr3c05ss","license":"Creative Commons BY-SA 4.0."}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780678451139-xtfbxqz57</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Descripción del producto final (Tarea 4.1)</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Descripción del producto final (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Descripción del producto final (Tarea 4.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780678451139-xtfbxqz57</odePageId>
+      <odeBlockId>block-1780678453857-3ypyberuk</odeBlockId>
+      <blockName>Producto final: infografía, póster, o presentación</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780678451139-xtfbxqz57</odePageId>
+          <odeBlockId>block-1780678453857-3ypyberuk</odeBlockId>
+          <odeIdeviceId>idevice-1780678453855-kbp6uqpbp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como producto final de este proyecto, el alumnado elaborará una infografía digital, un póster interactivo o una presentación visual basada en el concepto del Iceberg Cultural. De forma individual o en pequeños grupos, investigará diferentes aspectos visibles e invisibles de la cultura de un país de la Commonwealth y los comparará con elementos de su propia cultura.</p>
+<p style="text-align: justify;">El alumnado irá más allá de aspectos superficiales como la comida, la ropa o las celebraciones para explorar elementos menos visibles de la cultura, como los valores, las creencias, las actitudes, las tradiciones o las formas de comportamiento. El objetivo es desarrollar la conciencia intercultural, el pensamiento crítico y el respeto hacia la diversidad cultural.</p>
+<p style="text-align: justify;">Para crear el producto final se utilizarán herramientas digitales como Canva o Genially. Estas plataformas permiten organizar la información de manera visual, combinar textos e imágenes de forma eficaz y desarrollar la competencia digital mediante la creación de contenidos atractivos y significativos.</p>
+<p style="text-align: justify;">El producto final deberá:</p>
+<ul>
+<li style="text-align: justify;">Explicar aspectos visibles e invisibles de la cultura seleccionada.</li>
+<li>Incluir comparaciones con la cultura propia.</li>
+<li>Presentar la información de forma clara y organizada.</li>
+<li>Utilizar un nivel de inglés adecuado a 2.º ESO (A2).</li>
+<li>Mostrar respeto hacia la diversidad cultural y evitar estereotipos.</li>
+<li>Incorporar elementos visuales que faciliten la comprensión de la información</li>
+</ul>
+<p>Una vez finalizado, el alumnado realizará una breve presentación oral de su trabajo ante la clase, utilizando el inglés como herramienta de comunicación e intercambio cultural.</p>
+<p style="text-align: justify;">A través de esta tarea, el alumnado desarrollará competencias lingüísticas, digitales e interculturales, aprendiendo a comunicarse de forma respetuosa en una sociedad cada vez más diversa y globalizada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678453855-kbp6uqpbp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como producto final de este proyecto, el alumnado elaborará una infografía digital, un póster interactivo o una presentación visual basada en el concepto del Iceberg Cultural. De forma individual o en pequeños grupos, investigará diferentes aspectos visibles e invisibles de la cultura de un país de la Commonwealth y los comparará con elementos de su propia cultura.</p>\n<p style=\"text-align: justify;\">El alumnado irá más allá de aspectos superficiales como la comida, la ropa o las celebraciones para explorar elementos menos visibles de la cultura, como los valores, las creencias, las actitudes, las tradiciones o las formas de comportamiento. El objetivo es desarrollar la conciencia intercultural, el pensamiento crítico y el respeto hacia la diversidad cultural.</p>\n<p style=\"text-align: justify;\">Para crear el producto final se utilizarán herramientas digitales como Canva o Genially. Estas plataformas permiten organizar la información de manera visual, combinar textos e imágenes de forma eficaz y desarrollar la competencia digital mediante la creación de contenidos atractivos y significativos.</p>\n<p style=\"text-align: justify;\">El producto final deberá:</p>\n<ul>\n<li style=\"text-align: justify;\">Explicar aspectos visibles e invisibles de la cultura seleccionada.</li>\n<li>Incluir comparaciones con la cultura propia.</li>\n<li>Presentar la información de forma clara y organizada.</li>\n<li>Utilizar un nivel de inglés adecuado a 2.º ESO (A2).</li>\n<li>Mostrar respeto hacia la diversidad cultural y evitar estereotipos.</li>\n<li>Incorporar elementos visuales que faciliten la comprensión de la información</li>\n</ul>\n<p>Una vez finalizado, el alumnado realizará una breve presentación oral de su trabajo ante la clase, utilizando el inglés como herramienta de comunicación e intercambio cultural.</p>\n<p style=\"text-align: justify;\">A través de esta tarea, el alumnado desarrollará competencias lingüísticas, digitales e interculturales, aprendiendo a comunicarse de forma respetuosa en una sociedad cada vez más diversa y globalizada.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780678623377-p718vae5y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Elementos de curación de contenido (Tarea 5.1)</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Elementos de curación de contenido (Tarea 5.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Elementos de curación de contenido (Tarea 5.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780678623377-p718vae5y</odePageId>
+      <odeBlockId>block-1780679816500-mldgc7dkd</odeBlockId>
+      <blockName>Elementos de curación de contenidos</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780678623377-p718vae5y</odePageId>
+          <odeBlockId>block-1780679816500-mldgc7dkd</odeBlockId>
+          <odeIdeviceId>idevice-1780679816499-ovlg92z0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En las siguientes páginas se incluyen dos recopilaciones de recursos digitales elaboradas mediante herramientas de curación de contenidos. La primera está dirigida al alumnado y reúne materiales de apoyo para el desarrollo de The Cultural Iceberg Project. La segunda está orientada al profesorado e incluye herramientas y recursos digitales de uso habitual en el aula de Inglés.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679816499-ovlg92z0p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En las siguientes páginas se incluyen dos recopilaciones de recursos digitales elaboradas mediante herramientas de curación de contenidos. La primera está dirigida al alumnado y reúne materiales de apoyo para el desarrollo de The Cultural Iceberg Project. La segunda está orientada al profesorado e incluye herramientas y recursos digitales de uso habitual en el aula de Inglés.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780678711876-zpbxv6i7u</odePageId>
+  <odeParentPageId>page-1780678623377-p718vae5y</odeParentPageId>
+  <pageName>Para el alumnado</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780678711876-zpbxv6i7u</odePageId>
+      <odeBlockId>block-1780678726639-jvl3o3t4i</odeBlockId>
+      <blockName>Recursos para el alumnado</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780678711876-zpbxv6i7u</odePageId>
+          <odeBlockId>block-1780678726639-jvl3o3t4i</odeBlockId>
+          <odeIdeviceId>idevice-1780678726638-xb9tiue3c</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/sgeb540/cultural-iceberg-project-student-resources-vharo21wwnbx85yr" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">Unable to display an iframe loaded over HTTP on a website that uses HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780678761028-m2za65gz6</odePageId>
+  <odeParentPageId>page-1780678623377-p718vae5y</odeParentPageId>
+  <pageName>Para el docente</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el docente</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780678761028-m2za65gz6</odePageId>
+      <odeBlockId>block-1780679559998-uo41flbk9</odeBlockId>
+      <blockName>Recopilación de recursos para docentes</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780678761028-m2za65gz6</odePageId>
+          <odeBlockId>block-1780679559998-uo41flbk9</odeBlockId>
+          <odeIdeviceId>idevice-1780679559997-yk04htjqf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta recopilación está dirigida principalmente a otros docentes e incluye herramientas como OneStop English, British Council, Twinkl, Quizlet, entre otras.</p>
+<p><a href="https://steffi-gebhardt.symbaloo.com/">https://steffi-gebhardt.symbaloo.com/</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679559997-yk04htjqf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta recopilación está dirigida principalmente a otros docentes e incluye herramientas como OneStop English, British Council, Twinkl, Quizlet, entre otras.</p>\n<p><a href=\"https://steffi-gebhardt.symbaloo.com/\">https://steffi-gebhardt.symbaloo.com/</a></p>\n<p></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780680626863-dndxndryw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Guía didáctica  (Tarea 6.1)</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Guía didáctica  (Tarea 6.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Guía didáctica  (Tarea 6.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780680626863-dndxndryw</odePageId>
+      <odeBlockId>block-1780687230661-6k68blwao</odeBlockId>
+      <blockName>Asociación de las tareas con los criterios de evaluación</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780680626863-dndxndryw</odePageId>
+          <odeBlockId>block-1780687230661-6k68blwao</odeBlockId>
+          <odeIdeviceId>idevice-1780687230659-37cqbn57s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La presente guía didáctica recoge la relación entre las tareas desarrolladas en la Situación de Aprendizaje "The Cultural Iceberg Project" y los criterios de evaluación asociados a cada una de ellas.</p>
+<p style="text-align: justify;">Este documento permite comprobar la coherencia entre las actividades propuestas, los criterios de evaluación seleccionados y los instrumentos utilizados para recoger evidencias de aprendizaje. Asimismo, puede servir de orientación a otros docentes interesados en adaptar o implementar esta propuesta en sus propias aulas.</p>
+<p style="text-align: justify;">Formato Google Docs:</p>
+<p><a href="https://docs.google.com/document/d/1J8L4r6S2Ov8Z8cV-kh_F6sk7SjuCNqhla46yHYoMvTo/edit?usp=drive_link">https://docs.google.com/document/d/1J8L4r6S2Ov8Z8cV-kh_F6sk7SjuCNqhla46yHYoMvTo/edit?usp=drive_link</a></p>
+<p>Formato PDF:</p>
+<p><a href="https://drive.google.com/file/d/1BGeaUaaXrpgUcQoMIT3ZWizdAhbsEymU/view?usp=sharing">https://drive.google.com/file/d/1BGeaUaaXrpgUcQoMIT3ZWizdAhbsEymU/view?usp=sharing</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780687230659-37cqbn57s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La presente guía didáctica recoge la relación entre las tareas desarrolladas en la Situación de Aprendizaje \"The Cultural Iceberg Project\" y los criterios de evaluación asociados a cada una de ellas.</p>\n<p style=\"text-align: justify;\">Este documento permite comprobar la coherencia entre las actividades propuestas, los criterios de evaluación seleccionados y los instrumentos utilizados para recoger evidencias de aprendizaje. Asimismo, puede servir de orientación a otros docentes interesados en adaptar o implementar esta propuesta en sus propias aulas.</p>\n<p style=\"text-align: justify;\">Formato Google Docs:</p>\n<p><a href=\"https://docs.google.com/document/d/1J8L4r6S2Ov8Z8cV-kh_F6sk7SjuCNqhla46yHYoMvTo/edit?usp=drive_link\">https://docs.google.com/document/d/1J8L4r6S2Ov8Z8cV-kh_F6sk7SjuCNqhla46yHYoMvTo/edit?usp=drive_link</a></p>\n<p>Formato PDF:</p>\n<p><a href=\"https://drive.google.com/file/d/1BGeaUaaXrpgUcQoMIT3ZWizdAhbsEymU/view?usp=sharing\">https://drive.google.com/file/d/1BGeaUaaXrpgUcQoMIT3ZWizdAhbsEymU/view?usp=sharing</a> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780680191410-ni28w8mi3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Línea temporal (Tarea 7.1)</pageName>
+  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Línea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Línea temporal (Tarea 7.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780680191410-ni28w8mi3</odePageId>
+      <odeBlockId>block-1780680225417-qpz2juj6l</odeBlockId>
+      <blockName>Línea temporal de la SdA</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780680191410-ni28w8mi3</odePageId>
+          <odeBlockId>block-1780680225417-qpz2juj6l</odeBlockId>
+          <odeIdeviceId>idevice-1780680225415-5pqtykzp7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780680225415-5pqtykzp7" title="Línea temporal" href="{{context_path}}/content/resources/1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1.jpg" height="128" width="128" title="Línea temporal" alt="Línea temporal" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/0earndy24sqrvqh" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780680225415-5pqtykzp7" title="Línea temporal 2" href="{{context_path}}/content/resources/2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.jpg" height="128" width="128" title="Línea temporal 2" alt="Línea temporal 2" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/0earndy24sqrvqh" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780680225415-5pqtykzp7" title="Línea temporal 3" href="{{context_path}}/content/resources/3.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/3.jpg" height="128" width="128" title="Línea temporal 3" alt="Línea temporal 3" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/0earndy24sqrvqh" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780680225415-5pqtykzp7","img_0":{"img":"blob:app://localhost/a07219d8-1c27-42db-aa97-26ff6e5a3a5e","thumbnail":"blob:app://localhost/a07219d8-1c27-42db-aa97-26ff6e5a3a5e","title":"Línea temporal","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/0earndy24sqrvqh","license":"CC-BY-SA"},"img_1":{"img":"blob:app://localhost/6c3b891f-1877-403e-8583-6f32e1447637","thumbnail":"blob:app://localhost/6c3b891f-1877-403e-8583-6f32e1447637","title":"Línea temporal 2","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/0earndy24sqrvqh","license":"CC-BY-SA"},"img_2":{"img":"blob:app://localhost/aa02f794-c8d2-4445-bd10-899c5ea23ec8","thumbnail":"blob:app://localhost/aa02f794-c8d2-4445-bd10-899c5ea23ec8","title":"Línea temporal 3","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/0earndy24sqrvqh","license":"CC-BY-SA"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780680191410-ni28w8mi3</odePageId>
+      <odeBlockId>block-1780688323908-kbbytjs5u</odeBlockId>
+      <blockName>Enlace a la línea temporal en Canva</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780680191410-ni28w8mi3</odePageId>
+          <odeBlockId>block-1780688323908-kbbytjs5u</odeBlockId>
+          <odeIdeviceId>idevice-1780688323907-8mvfav3fe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/0earndy24sqrvqh">https://canva.link/0earndy24sqrvqh</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780688323907-8mvfav3fe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/0earndy24sqrvqh\">https://canva.link/0earndy24sqrvqh</a> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780680640671-da4hekaly</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Instrumentos de evaluación (Tarea 8.1)</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Instrumentos de evaluación (Tarea 8.1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Instrumentos de evaluación (Tarea 8.1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780680640671-da4hekaly</odePageId>
+      <odeBlockId>block-1780689597667-gxs1h1pe7</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780680640671-da4hekaly</odePageId>
+          <odeBlockId>block-1780689597667-gxs1h1pe7</odeBlockId>
+          <odeIdeviceId>idevice-1780689597665-r14k2b9yq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Instrumentos de evaluación</strong></p>
+<p style="text-align: justify;">La evaluación de la Situación de Aprendizaje The Cultural Iceberg Project se realiza mediante cuatro instrumentos complementarios que permiten recoger evidencias del aprendizaje desde diferentes perspectivas.</p>
+<p style="text-align: justify;">Estos instrumentos evalúan la comprensión audiovisual, la producción escrita, la competencia intercultural y la expresión oral del alumnado, proporcionando una visión más completa y objetiva de su progreso.</p>
+<p style="text-align: justify;">Para ello se han diseñado los siguientes instrumentos:</p>
+<ul>
+<li style="text-align: justify;">Cuestionario de comprensión audiovisual del corto New Boy (criterios 1.1, 1.2, 1.3 y 6.1).</li>
+<li style="text-align: justify;">Rúbrica de evaluación de la infografía (criterios 2.2 y 6.2).</li>
+<li style="text-align: justify;">Checklist de planificación, producción y revisión de la infografía (criterio 2.3).</li>
+<li>Diana de evaluación de la presentación oral (criterios 2.1 y 6.3).</li>
+</ul>
+<p>La combinación de estos instrumentos permite aplicar un proceso de triangulación de evidencias, favoreciendo una evaluación más válida, fiable y ajustada al desarrollo competencial del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780689597665-r14k2b9yq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Instrumentos de evaluación</strong></p>\n<p style=\"text-align: justify;\">La evaluación de la Situación de Aprendizaje The Cultural Iceberg Project se realiza mediante cuatro instrumentos complementarios que permiten recoger evidencias del aprendizaje desde diferentes perspectivas.</p>\n<p style=\"text-align: justify;\">Estos instrumentos evalúan la comprensión audiovisual, la producción escrita, la competencia intercultural y la expresión oral del alumnado, proporcionando una visión más completa y objetiva de su progreso.</p>\n<p style=\"text-align: justify;\">Para ello se han diseñado los siguientes instrumentos:</p>\n<ul>\n<li style=\"text-align: justify;\">Cuestionario de comprensión audiovisual del corto New Boy (criterios 1.1, 1.2, 1.3 y 6.1).</li>\n<li style=\"text-align: justify;\">Rúbrica de evaluación de la infografía (criterios 2.2 y 6.2).</li>\n<li style=\"text-align: justify;\">Checklist de planificación, producción y revisión de la infografía (criterio 2.3).</li>\n<li>Diana de evaluación de la presentación oral (criterios 2.1 y 6.3).</li>\n</ul>\n<p>La combinación de estos instrumentos permite aplicar un proceso de triangulación de evidencias, favoreciendo una evaluación más válida, fiable y ajustada al desarrollo competencial del alumnado.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780680807961-x3fkfnujx</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>a. Comprensión del corto &quot;New Boy&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>a. Comprensión del corto &quot;New Boy&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780680807961-x3fkfnujx</odePageId>
+      <odeBlockId>block-1780681053566-b3fkx6u72</odeBlockId>
+      <blockName>Comprensión del corto</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780680807961-x3fkfnujx</odePageId>
+          <odeBlockId>block-1780681053566-b3fkx6u72</odeBlockId>
+          <odeIdeviceId>idevice-1780681053564-kosn07j23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>1. Cuestionario de comprensión del corto New Boy</strong></p>
+<p style="text-align: justify;"><strong>Cuándo se utiliza</strong><br />Tras el visionado y análisis del corto New Boy, durante la fase de exploración de la Situación de Aprendizaje.</p>
+<p style="text-align: justify;"><strong>Qué se evalúa</strong><br />CRITERIO 1.1: Comprender el sentido global y la información explícita del corto.</p>
+<p style="text-align: justify;">CRITERIO 1.2: Interpretar y valorar el contenido del texto audiovisual.</p>
+<p style="text-align: justify;">CRITERIO 1.3: Aplicar estrategias para comprender e interpretar información.</p>
+<p style="text-align: justify;">CRITERIO 6.1: Actuar de forma empática y respetuosa en situaciones interculturales.</p>
+<p style="text-align: justify;"><strong>Reparto de puntuación</strong><br />Criterio 1.1 → 10 puntos<br />Criterio 1.2 → 10 puntos<br />Criterio 1.3 → 10 puntos<br />Criterio 6.1 → 10 puntos<br /></p>
+<p style="text-align: justify;">Posteriormente, la puntuación obtenida en cada bloque se transforma en una calificación sobre 10 para cada criterio evaluado.</p>
+<p style="text-align: justify;"><strong>Cómo se recogen los datos</strong><br />El cuestionario se realiza mediante Google Forms e incluye preguntas de opción múltiple, verdadero/falso y preguntas abiertas breves.</p>
+<p style="text-align: justify;">Google Forms permite recopilar automáticamente las respuestas del alumnado y exportarlas a una hoja de cálculo para su posterior análisis.</p>
+<p style="text-align: justify;"><strong>Qué hago con los resultados</strong><br />Los resultados me permiten detectar posibles dificultades de comprensión audiovisual, interpretación de emociones, comprensión intercultural o inferencia de información implícita antes de comenzar el trabajo sobre el Cultural Iceberg.</p>
+<p style="text-align: justify;">A partir de estos datos puedo adaptar las explicaciones posteriores, reforzar determinados conceptos culturales o proporcionar apoyos adicionales al alumnado que lo necesite.</p>
+<p style="text-align: justify;"><strong>Variables que pueden influir en los resultados</strong></p>
+<ul>
+<li style="text-align: justify;">Diferentes niveles de competencia lingüística en inglés.</li>
+<li style="text-align: justify;">Diferentes niveles de comprensión audiovisual.</li>
+<li style="text-align: justify;">Necesidades específicas de apoyo educativo.</li>
+<li style="text-align: justify;">Dificultades puntuales de atención o concentración durante el visionado.<br /></li>
+</ul>
+<p style="text-align: justify;"><strong>Medidas adoptadas</strong><br />Para reducir el impacto de estas variables se contemplan las siguientes medidas:</p>
+<ul>
+<li style="text-align: justify;">Visionado del corto más de una vez.</li>
+<li style="text-align: justify;">Uso de subtítulos en inglés cuando sea necesario.</li>
+<li style="text-align: justify;">Activación de conocimientos previos mediante actividades iniciales.</li>
+<li style="text-align: justify;">Apoyos visuales y vocabulario clave.</li>
+<li style="text-align: justify;">Posibilidad de aclarar dudas antes de realizar el cuestionario.</li>
+</ul>
+<p><strong>Tratamiento y validación de los datos</strong><br />Los resultados obtenidos se contrastarán posteriormente con los datos procedentes de la rúbrica del producto final y de la diana de evaluación de la presentación oral, aplicando un proceso de triangulación de evidencias que permita obtener una visión más completa del aprendizaje del alumnado.</p>
+<p style="text-align: justify;">Además, el uso de Google Forms facilita la automatización de la recogida y organización de los datos, permitiendo identificar tendencias generales del grupo y posibles dificultades individuales de manera rápida y objetiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780681053564-kosn07j23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>1. Cuestionario de comprensión del corto New Boy</strong></p>\n<p style=\"text-align: justify;\"><strong>Cuándo se utiliza</strong><br />Tras el visionado y análisis del corto New Boy, durante la fase de exploración de la Situación de Aprendizaje.</p>\n<p style=\"text-align: justify;\"><strong>Qué se evalúa</strong><br />CRITERIO 1.1: Comprender el sentido global y la información explícita del corto.</p>\n<p style=\"text-align: justify;\">CRITERIO 1.2: Interpretar y valorar el contenido del texto audiovisual.</p>\n<p style=\"text-align: justify;\">CRITERIO 1.3: Aplicar estrategias para comprender e interpretar información.</p>\n<p style=\"text-align: justify;\">CRITERIO 6.1: Actuar de forma empática y respetuosa en situaciones interculturales.</p>\n<p style=\"text-align: justify;\"><strong>Reparto de puntuación</strong><br />Criterio 1.1 → 10 puntos<br />Criterio 1.2 → 10 puntos<br />Criterio 1.3 → 10 puntos<br />Criterio 6.1 → 10 puntos<br /></p>\n<p style=\"text-align: justify;\">Posteriormente, la puntuación obtenida en cada bloque se transforma en una calificación sobre 10 para cada criterio evaluado.</p>\n<p style=\"text-align: justify;\"><strong>Cómo se recogen los datos</strong><br />El cuestionario se realiza mediante Google Forms e incluye preguntas de opción múltiple, verdadero/falso y preguntas abiertas breves.</p>\n<p style=\"text-align: justify;\">Google Forms permite recopilar automáticamente las respuestas del alumnado y exportarlas a una hoja de cálculo para su posterior análisis.</p>\n<p style=\"text-align: justify;\"><strong>Qué hago con los resultados</strong><br />Los resultados me permiten detectar posibles dificultades de comprensión audiovisual, interpretación de emociones, comprensión intercultural o inferencia de información implícita antes de comenzar el trabajo sobre el Cultural Iceberg.</p>\n<p style=\"text-align: justify;\">A partir de estos datos puedo adaptar las explicaciones posteriores, reforzar determinados conceptos culturales o proporcionar apoyos adicionales al alumnado que lo necesite.</p>\n<p style=\"text-align: justify;\"><strong>Variables que pueden influir en los resultados</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Diferentes niveles de competencia lingüística en inglés.</li>\n<li style=\"text-align: justify;\">Diferentes niveles de comprensión audiovisual.</li>\n<li style=\"text-align: justify;\">Necesidades específicas de apoyo educativo.</li>\n<li style=\"text-align: justify;\">Dificultades puntuales de atención o concentración durante el visionado.<br /></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Medidas adoptadas</strong><br />Para reducir el impacto de estas variables se contemplan las siguientes medidas:</p>\n<ul>\n<li style=\"text-align: justify;\">Visionado del corto más de una vez.</li>\n<li style=\"text-align: justify;\">Uso de subtítulos en inglés cuando sea necesario.</li>\n<li style=\"text-align: justify;\">Activación de conocimientos previos mediante actividades iniciales.</li>\n<li style=\"text-align: justify;\">Apoyos visuales y vocabulario clave.</li>\n<li style=\"text-align: justify;\">Posibilidad de aclarar dudas antes de realizar el cuestionario.</li>\n</ul>\n<p><strong>Tratamiento y validación de los datos</strong><br />Los resultados obtenidos se contrastarán posteriormente con los datos procedentes de la rúbrica del producto final y de la diana de evaluación de la presentación oral, aplicando un proceso de triangulación de evidencias que permita obtener una visión más completa del aprendizaje del alumnado.</p>\n<p style=\"text-align: justify;\">Además, el uso de Google Forms facilita la automatización de la recogida y organización de los datos, permitiendo identificar tendencias generales del grupo y posibles dificultades individuales de manera rápida y objetiva.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780682621646-y7bboub9c</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>a.1. Cuestionario &quot;New Boy&quot;: Criterios 1.1, 1.2, 1.3, 1.6</pageName>
+  <odeNavStructureOrder>21</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>a.1. Cuestionario &quot;New Boy&quot;: Criterios 1.1, 1.2, 1.3, 1.6</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>a.1. Cuestionario &quot;New Boy&quot;: Criterios 1.1, 1.2, 1.3, 1.6</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780682621646-y7bboub9c</odePageId>
+      <odeBlockId>block-1780682626734-9i32hqe6c</odeBlockId>
+      <blockName>Questionnaire</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780682621646-y7bboub9c</odePageId>
+          <odeBlockId>block-1780682626734-9i32hqe6c</odeBlockId>
+          <odeIdeviceId>idevice-1780682626733-hq7vj4sjh</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780682626733-hq7vj4sjh" data-evaluationb="false" data-evaluationid="4eef1241-cf64-44f0-853f-83063e75a78e"></div>
+            <div id="frmMainContainer-idevice-1780682626733-hq7vj4sjh" class="form-IDevice" data-id="idevice-1780682626733-hq7vj4sjh">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Answer the questions. There are True-False questions, multiple-choice questions and open questions</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Time per question:</span></strong>
+                        <span id="frmPTime-idevice-1780682626733-hq7vj4sjh">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780682626733-hq7vj4sjh" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780682626733-hq7vj4sjh" type="button" class="btn btn-primary">Click here to start</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780682626733-hq7vj4sjh" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780682626733-hq7vj4sjh" > </div>
+                        <div id="frmCover-idevice-1780682626733-hq7vj4sjh" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780682626733-hq7vj4sjh" class="form-results-container inline">
+                        <div id="form-score-idevice-1780682626733-hq7vj4sjh" class="score-text">Score.</div>
+                        <div id="form-result-test-idevice-1780682626733-hq7vj4sjh" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780682626733-hq7vj4sjh" class="btn btn-primary" type="button" value="Check"
+                            data-id="idevice-1780682626733-hq7vj4sjh" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780682626733-hq7vj4sjh" type="button" value="Reset"
+                            data-id="idevice-1780682626733-hq7vj4sjh" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780682626733-hq7vj4sjh" class="btn btn-primary" type="button" value="Show answers"
+                            data-id="idevice-1780682626733-hq7vj4sjh" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780682626733-hq7vj4sjh" type="button" value="Save score" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780682626733-hq7vj4sjh","evaluation":false,"evaluationID":"4eef1241-cf64-44f0-853f-83063e75a78e","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgYouScore":"You scores is","msgScore":"Score","msgWeight":"Weight","msgYouLastScore":"The last score saved is","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgActityComply":"You have already done this activity.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Form","msgStartGame":"Click here to start","msgTime":"Time per question","msgSaveScore":"Save score","msgResult":"Result","msgCheck":"Check","msgReset":"Reset","msgShowAnswers":"Show answers","msgTestResultPass":"Congratulations! You passed the test","msgTestResultNotPass":"Sorry. You failed the test","msgTrueFalseHelp":"Select whether the statement is true or false","msgDropdownHelp":"Choose the correct answer among the options proposed","msgFillHelp":"Fill in the blanks with the appropriate word","msgSingleSelectionHelp":"Multiple choice with only one correct answer","msgMultipleSelectionHelp":"Multiple choice with multiple corrects answers","msgPlayStart":"Click here to start","msgTrue":"True","msgFalse":"False","msgNext":"Next","msgPrevious":"Previous","msgSuggestion":"Suggestion"},"id":"idevice-1780682626733-hq7vj4sjh","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Answer the questions. There are True-False questions, multiple-choice questions and open questions</p>","questionsData":[{"id":"1780682750375-G0HVQ","activityType":"true-false","baseText":"<p>Joseph is a new student in the class</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683069843-3PSF3","activityType":"true-false","baseText":"","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683100557-P6O78","activityType":"true-false","baseText":"<p>The teacher introduces Joseph at the beginning of the short film</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683121334-OZHEB","activityType":"true-false","baseText":"<p>Christian behaves kindly towards Joseph from the beginning</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683144886-BIPLU","activityType":"true-false","baseText":"<p>Joseph finishes the maths activity before some of his classmates</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683170218-PDPJA","activityType":"true-false","baseText":"<p>At the end of the short film, the teacher finds out exactly what happened during the fight</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683303144-JG5CQ","activityType":"selection","baseText":"<p>Why does Joseph arrive at this school?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Because he has moved to a new town."],[true,"Because he is a new student."],[false,"Because he has repeated a school year."],[false,"It is not stated."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683370644-GSK98","activityType":"selection","baseText":"<p>Who bothers Joseph during the lesson?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Hazel"],[false,"Seth"],[true,"Christian"],[false,"Pamela"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683412474-9OORO","activityType":"selection","baseText":"<p>Which school subject appears in one of the scenes?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"History"],[true,"Mathematics"],[false,"Science"],[false,"Music"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683470373-EWUKL","activityType":"selection","baseText":"<p>What happens during break time?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Joseph leaves on his own."],[false,"Joseph and Christian have a physical confrontation."],[false,"Joseph changes classes."],[false,"The teacher punishes the whole class."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683521821-F2488","activityType":"selection","baseText":"<p>Who tries to explain what really happened?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Pamela"],[false,"Seth"],[true,"Hazel"],[false,"Christian"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683626771-KE63S","activityType":"selection","baseText":"<p>How does Joseph probably feel when he arrives at his new school?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Confident"],[true,"Nervous or uncomfortable"],[false,"Angry"],[false,"Bored"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683696152-COD0D","activityType":"selection","baseText":"<p>Why does Christian make fun of Joseph?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Because he wants to help him.\n\n"],[false,"Because he wants to be his friend."],[true,"Because he sees him as different."],[false,"Because Joseph insulted him."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683771870-IEVST","activityType":"selection","baseText":"<p>What attitude does the teacher show towards conflicts?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"She completely ignores them."],[true,"She tries to keep order and solve them."],[false,"She favours Christian"],[false,"She favours Joseph"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683812237-DXBBQ","activityType":"selection","baseText":"<p>Which character shows the most empathy towards Joseph?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Christian"],[true,"Hazel"],[false,"Seth"],[false,"Nobody"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683836556-FX6GG","activityType":"fill","baseText":"<p>Briefly explain how you think Joseph feels during his first day at school and why.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1780683861239-LTE0Y","activityType":"fill","baseText":"<p>What clues (gestures, behaviour, tone of voice or actions) helped you understand the relationship between Joseph and Christian?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1780683880991-6K8WY","activityType":"true-false","baseText":"<p>It is important to respect people from different cultures. </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683901385-VQ5HE","activityType":"true-false","baseText":"<p>Making fun of someone because they are different helps people live together peacefully. </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683927129-UF1GJ","activityType":"true-false","baseText":"<p>Listening to others helps solve conflicts.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683937845-DPZ5N","activityType":"true-false","baseText":"<p>Prejudices can cause misunderstandings</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780683957419-E8KOS","activityType":"true-false","baseText":"<p>All the classmates treat Joseph with respect throughout the short film</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"0","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780680978392-htasivlki</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>b. Infografía</pageName>
+  <odeNavStructureOrder>22</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>b. Infografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780680978392-htasivlki</odePageId>
+      <odeBlockId>block-1780681326077-7vajtfi8j</odeBlockId>
+      <blockName>Infografía: Checklist &amp; Rúbrica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780680978392-htasivlki</odePageId>
+          <odeBlockId>block-1780681326077-7vajtfi8j</odeBlockId>
+          <odeIdeviceId>idevice-1780681326076-fd0rtjm17</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>2. Infografía del Cultural Iceberg: Rúbrica y Checklist</strong></p>
+<p style="text-align: justify;">Para la evaluación de la infografía intercultural se emplean dos tipos de instrumentos:</p>
+<ul>
+<li style="text-align: justify;">Una rúbrica analítica con cuatro niveles de desempeño (4-1) para evaluar los criterios 2.2 y 6.2.</li>
+<li style="text-align: justify;">Una checklist o lista de cotejo para evaluar el criterio 2.3, centrada en el proceso de planificación, producción y revisión del texto.</li>
+</ul>
+<p style="text-align: justify;">La combinación de ambos instrumentos permite valorar tanto la calidad del producto final como el proceso seguido por el alumnado para su elaboración.</p>
+<p style="text-align: justify;"><br /><strong>Cuándo se utiliza</strong></p>
+<p style="text-align: justify;">Los instrumentos se utilizan durante la fase de aplicación de la Situación de Aprendizaje, una vez finalizada la elaboración de la infografía Cultural Iceberg y antes de la presentación oral final.</p>
+<p style="text-align: justify;">La evaluación se realiza sobre el producto final elaborado por el alumnado, </p>
+<p style="text-align: justify;"><strong>Qué evalúa</strong></p>
+<p style="text-align: justify;"><strong>Criterio 2.2:</strong> Se evalúa la calidad del texto producido por el alumnado:</p>
+<ul>
+<li style="text-align: justify;">Claridad y comprensibilidad del contenido.</li>
+<li style="text-align: justify;">Organización y coherencia de la información.</li>
+<li style="text-align: justify;">Adecuación al formato infografía.</li>
+<li style="text-align: justify;">Uso adecuado de la lengua inglesa (nivel A2).</li>
+<li style="text-align: justify;">Respeto a la propiedad intelectual y ausencia de plagio.</li>
+<li style="text-align: justify;">Cohesión y conexión entre las ideas.</li>
+</ul>
+<p><strong>Criterio 6.2: </strong>Se evalúa la competencia intercultural reflejada en la infografía:</p>
+<ul>
+<li>Reconocimiento de la diversidad cultural.</li>
+<li>Capacidad para comparar culturas.</li>
+<li>Valoración positiva de otras culturas como fuente de enriquecimiento personal.<br />Ausencia de prejuicios, generalizaciones y estereotipos.</li>
+</ul>
+<p><strong>Criterio 2.3:</strong> Se evalúa el proceso de planificación, producción y revisión del texto:</p>
+<ul>
+<li>Selección de información relevante.</li>
+<li>Organización de la información.</li>
+<li>Aplicación de estrategias de síntesis.</li>
+<li>Adaptación al objetivo comunicativo.</li>
+<li>Revisión final del producto.</li>
+</ul>
+<p style="text-align: justify;"><strong>Cómo se recogen los datos</strong><br />Las infografías se entregan digitalmente a través de Google Classroom.</p>
+<p style="text-align: justify;">Las rúbricas y la checklist se cumplimentan mediante formularios o documentos digitales, permitiendo registrar los resultados de forma organizada.</p>
+<p style="text-align: justify;">Posteriormente, los datos se trasladan a una hoja de cálculo donde se calculan automáticamente las puntuaciones obtenidas en cada criterio.</p>
+<p style="text-align: justify;"><strong>Variables que pueden influir en los resultados</strong></p>
+<p style="text-align: justify;">Diferente nivel de competencia lingüística en inglés.<br />Diferente competencia digital del alumnado.<br />Diferente grado de autonomía en el trabajo cooperativo.<br />Necesidades específicas de apoyo educativo.<br />Acceso desigual a recursos tecnológicos fuera del centro.</p>
+<p style="text-align: justify;"><strong>Medidas adoptadas</strong><br />Para minimizar el impacto de estas variables se adoptan las siguientes medidas:</p>
+<ul>
+<li style="text-align: justify;">Uso de plantillas y modelos de infografía.</li>
+<li style="text-align: justify;">Proporcionar vocabulario y estructuras lingüísticas de apoyo.</li>
+<li style="text-align: justify;">Trabajo cooperativo con reparto de roles.</li>
+<li style="text-align: justify;">Uso de herramientas digitales accesibles y conocidas por el alumnado (Canva, Google Classroom).</li>
+<li style="text-align: justify;">Posibilidad de realizar parte del trabajo en formato analógico si surgieran problemas técnicos.</li>
+<li style="text-align: justify;">Seguimiento continuo del proceso mediante observación directa y revisión de borradores.</li>
+</ul>
+<p style="text-align: justify;"><strong>Tratamiento y validación de los datos</strong><br />Los resultados obtenidos mediante las rúbricas y la checklist se contrastarán posteriormente con los datos procedentes del cuestionario de comprensión de New Boy y de la diana de evaluación de la presentación oral.</p>
+<p style="text-align: justify;">Este proceso de triangulación permite obtener evidencias complementarias sobre la comprensión, la producción escrita, la competencia intercultural y la reflexión del alumnado, favoreciendo una evaluación más completa y objetiva.</p>
+<p>Además, el uso de herramientas digitales facilita la recogida, almacenamiento y análisis de los datos, así como la generación de informes individuales y grupales para proporcionar retroalimentación al alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780681326076-fd0rtjm17","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>2. Infografía del Cultural Iceberg: Rúbrica y Checklist</strong></p>\n<p style=\"text-align: justify;\">Para la evaluación de la infografía intercultural se emplean dos tipos de instrumentos:</p>\n<ul>\n<li style=\"text-align: justify;\">Una rúbrica analítica con cuatro niveles de desempeño (4-1) para evaluar los criterios 2.2 y 6.2.</li>\n<li style=\"text-align: justify;\">Una checklist o lista de cotejo para evaluar el criterio 2.3, centrada en el proceso de planificación, producción y revisión del texto.</li>\n</ul>\n<p style=\"text-align: justify;\">La combinación de ambos instrumentos permite valorar tanto la calidad del producto final como el proceso seguido por el alumnado para su elaboración.</p>\n<p style=\"text-align: justify;\"><br /><strong>Cuándo se utiliza</strong></p>\n<p style=\"text-align: justify;\">Los instrumentos se utilizan durante la fase de aplicación de la Situación de Aprendizaje, una vez finalizada la elaboración de la infografía Cultural Iceberg y antes de la presentación oral final.</p>\n<p style=\"text-align: justify;\">La evaluación se realiza sobre el producto final elaborado por el alumnado, </p>\n<p style=\"text-align: justify;\"><strong>Qué evalúa</strong></p>\n<p style=\"text-align: justify;\"><strong>Criterio 2.2:</strong> Se evalúa la calidad del texto producido por el alumnado:</p>\n<ul>\n<li style=\"text-align: justify;\">Claridad y comprensibilidad del contenido.</li>\n<li style=\"text-align: justify;\">Organización y coherencia de la información.</li>\n<li style=\"text-align: justify;\">Adecuación al formato infografía.</li>\n<li style=\"text-align: justify;\">Uso adecuado de la lengua inglesa (nivel A2).</li>\n<li style=\"text-align: justify;\">Respeto a la propiedad intelectual y ausencia de plagio.</li>\n<li style=\"text-align: justify;\">Cohesión y conexión entre las ideas.</li>\n</ul>\n<p><strong>Criterio 6.2: </strong>Se evalúa la competencia intercultural reflejada en la infografía:</p>\n<ul>\n<li>Reconocimiento de la diversidad cultural.</li>\n<li>Capacidad para comparar culturas.</li>\n<li>Valoración positiva de otras culturas como fuente de enriquecimiento personal.<br />Ausencia de prejuicios, generalizaciones y estereotipos.</li>\n</ul>\n<p><strong>Criterio 2.3:</strong> Se evalúa el proceso de planificación, producción y revisión del texto:</p>\n<ul>\n<li>Selección de información relevante.</li>\n<li>Organización de la información.</li>\n<li>Aplicación de estrategias de síntesis.</li>\n<li>Adaptación al objetivo comunicativo.</li>\n<li>Revisión final del producto.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Cómo se recogen los datos</strong><br />Las infografías se entregan digitalmente a través de Google Classroom.</p>\n<p style=\"text-align: justify;\">Las rúbricas y la checklist se cumplimentan mediante formularios o documentos digitales, permitiendo registrar los resultados de forma organizada.</p>\n<p style=\"text-align: justify;\">Posteriormente, los datos se trasladan a una hoja de cálculo donde se calculan automáticamente las puntuaciones obtenidas en cada criterio.</p>\n<p style=\"text-align: justify;\"><strong>Variables que pueden influir en los resultados</strong></p>\n<p style=\"text-align: justify;\">Diferente nivel de competencia lingüística en inglés.<br />Diferente competencia digital del alumnado.<br />Diferente grado de autonomía en el trabajo cooperativo.<br />Necesidades específicas de apoyo educativo.<br />Acceso desigual a recursos tecnológicos fuera del centro.</p>\n<p style=\"text-align: justify;\"><strong>Medidas adoptadas</strong><br />Para minimizar el impacto de estas variables se adoptan las siguientes medidas:</p>\n<ul>\n<li style=\"text-align: justify;\">Uso de plantillas y modelos de infografía.</li>\n<li style=\"text-align: justify;\">Proporcionar vocabulario y estructuras lingüísticas de apoyo.</li>\n<li style=\"text-align: justify;\">Trabajo cooperativo con reparto de roles.</li>\n<li style=\"text-align: justify;\">Uso de herramientas digitales accesibles y conocidas por el alumnado (Canva, Google Classroom).</li>\n<li style=\"text-align: justify;\">Posibilidad de realizar parte del trabajo en formato analógico si surgieran problemas técnicos.</li>\n<li style=\"text-align: justify;\">Seguimiento continuo del proceso mediante observación directa y revisión de borradores.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Tratamiento y validación de los datos</strong><br />Los resultados obtenidos mediante las rúbricas y la checklist se contrastarán posteriormente con los datos procedentes del cuestionario de comprensión de New Boy y de la diana de evaluación de la presentación oral.</p>\n<p style=\"text-align: justify;\">Este proceso de triangulación permite obtener evidencias complementarias sobre la comprensión, la producción escrita, la competencia intercultural y la reflexión del alumnado, favoreciendo una evaluación más completa y objetiva.</p>\n<p>Además, el uso de herramientas digitales facilita la recogida, almacenamiento y análisis de los datos, así como la generación de informes individuales y grupales para proporcionar retroalimentación al alumnado.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780684055274-wzjdpqo5z</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>b.1. Infografía: Rúbrica Criterio 2.2</pageName>
+  <odeNavStructureOrder>23</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>b.1. Infografía: Rúbrica Criterio 2.2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>b.1. Infografía: Rúbrica Criterio 2.2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780684055274-wzjdpqo5z</odePageId>
+      <odeBlockId>block-1780684061348-9m79et8qb</odeBlockId>
+      <blockName>Rúbrica Criterio 2.2</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780684055274-wzjdpqo5z</odePageId>
+          <odeBlockId>block-1780684061348-9m79et8qb</odeBlockId>
+          <odeIdeviceId>idevice-1780684061347-0a1kyaemf</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Complete the following rubric</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1780684061347-0a1kyaemf%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20criterio%202.2%22%2C%22categories%22%3A%5B%22Claridad%20del%20texto%22%2C%22Organizaci%F3n%20y%20coherencia%22%2C%22Adecuaci%F3n%20al%20formato%20infograf%EDa%22%2C%22Uso%20del%20ingl%E9s%22%2C%22Propiedad%20intelectual%20y%20elaboraci%F3n%20propia%22%2C%22Cohesi%F3n%20y%20conexi%F3n%20de%20ideas%22%5D%2C%22scores%22%3A%5B%22Excelente%20%284%29%22%2C%22Adecuado%20%283%29%22%2C%22B%E1sico%20%282%29%22%2C%22Inicial%20%281%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Toda%20la%20informaci%F3n%20se%20entiende%20f%E1cilmente.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%20parte%20del%20texto%20se%20entiende%20bien.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Algunas%20partes%20son%20confusas%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Resulta%20dif%EDcil%20comprender%20el%20contenido.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20perfectamente%20organizada%20en%20secciones%20l%F3gicas.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20organizada%20con%20peque%F1os%20fallos.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20organizaci%F3n%20es%20irregular.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20aparece%20desordenada.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20correctamente%20t%EDtulos%2C%20apartados%2C%20palabras%20clave%20y%20elementos%20visuales.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Utiliza%20la%20mayor%EDa%20de%20los%20elementos%20propios%20de%20una%20infograf%EDa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Utiliza%20algunos%20elementos%2C%20pero%20de%20forma%20limitada.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20respeta%20el%20formato%20infograf%EDa.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20estructuras%20sencillas%20correctas%20y%20vocabulario%20adecuado%20al%20nivel%20A2.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presenta%20algunos%20errores%20que%20no%20dificultan%20la%20comprensi%F3n.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20errores%20frecuentes%20que%20dificultan%20parcialmente%20la%20comprensi%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Los%20errores%20dificultan%20seriamente%20la%20comprensi%F3n.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Toda%20la%20informaci%F3n%20est%E1%20reformulada%20y%20elaborada%20por%20el%20alumnado.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Predomina%20la%20elaboraci%F3n%20propia%20con%20alguna%20dependencia%20puntual%20de%20las%20fuentes.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Hay%20fragmentos%20copiados%20o%20muy%20poco%20transformados.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Gran%20parte%20del%20contenido%20est%E1%20copiado.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Las%20ideas%20est%E1n%20bien%20relacionadas%20y%20mantienen%20una%20unidad%20tem%E1tica%20clara.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Existe%20una%20relaci%F3n%20l%F3gica%20entre%20la%20mayor%EDa%20de%20las%20ideas.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Algunas%20ideas%20aparecen%20aisladas%20o%20poco%20conectadas.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Las%20ideas%20aparecen%20inconexas.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20criterio%202.2%22%2C%22categories%22%3A%5B%22Claridad%20del%20texto%22%2C%22Organizaci%F3n%20y%20coherencia%22%2C%22Adecuaci%F3n%20al%20formato%20infograf%EDa%22%2C%22Uso%20del%20ingl%E9s%22%2C%22Propiedad%20intelectual%20y%20elaboraci%F3n%20propia%22%2C%22Cohesi%F3n%20y%20conexi%F3n%20de%20ideas%22%5D%2C%22scores%22%3A%5B%22Excelente%20%284%29%22%2C%22Adecuado%20%283%29%22%2C%22B%E1sico%20%282%29%22%2C%22Inicial%20%281%29%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Toda%20la%20informaci%F3n%20se%20entiende%20f%E1cilmente.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20mayor%20parte%20del%20texto%20se%20entiende%20bien.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Algunas%20partes%20son%20confusas%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Resulta%20dif%EDcil%20comprender%20el%20contenido.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20perfectamente%20organizada%20en%20secciones%20l%F3gicas.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22La%20informaci%F3n%20est%E1%20organizada%20con%20peque%F1os%20fallos.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22La%20organizaci%F3n%20es%20irregular.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22La%20informaci%F3n%20aparece%20desordenada.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20correctamente%20t%EDtulos%2C%20apartados%2C%20palabras%20clave%20y%20elementos%20visuales.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Utiliza%20la%20mayor%EDa%20de%20los%20elementos%20propios%20de%20una%20infograf%EDa.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Utiliza%20algunos%20elementos%2C%20pero%20de%20forma%20limitada.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20respeta%20el%20formato%20infograf%EDa.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Utiliza%20estructuras%20sencillas%20correctas%20y%20vocabulario%20adecuado%20al%20nivel%20A2.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Presenta%20algunos%20errores%20que%20no%20dificultan%20la%20comprensi%F3n.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presenta%20errores%20frecuentes%20que%20dificultan%20parcialmente%20la%20comprensi%F3n.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Los%20errores%20dificultan%20seriamente%20la%20comprensi%F3n.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Toda%20la%20informaci%F3n%20est%E1%20reformulada%20y%20elaborada%20por%20el%20alumnado.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Predomina%20la%20elaboraci%F3n%20propia%20con%20alguna%20dependencia%20puntual%20de%20las%20fuentes.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Hay%20fragmentos%20copiados%20o%20muy%20poco%20transformados.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Gran%20parte%20del%20contenido%20est%E1%20copiado.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22Las%20ideas%20est%E1n%20bien%20relacionadas%20y%20mantienen%20una%20unidad%20tem%E1tica%20clara.%22%7D%2C%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Existe%20una%20relaci%F3n%20l%F3gica%20entre%20la%20mayor%EDa%20de%20las%20ideas.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Algunas%20ideas%20aparecen%20aisladas%20o%20poco%20conectadas.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Las%20ideas%20aparecen%20inconexas.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22Rubric%22%2C%22activity%22%3A%22Activity%22%2C%22name%22%3A%22Name%22%2C%22date%22%3A%22Date%22%2C%22score%22%3A%22Score%22%2C%22notes%22%3A%22Notes%22%2C%22download%22%3A%22Download%22%2C%22msgDelete%22%3A%22Are%20you%20sure%20you%20want%20clear%20all%20form%20fields%3F%22%2C%22reset%22%3A%22Reset%22%2C%22print%22%3A%22Print%22%2C%22apply%22%3A%22Apply%22%2C%22newWindow%22%3A%22New%20Window%22%2C%22msgEndGameScore%22%3A%22Please%20complete%20the%20rubric%20before%20saving%20your%20score.%22%2C%22msgScoreScorm%22%3A%22The%20score%20can%27t%20be%20saved%20because%20this%20page%20is%20not%20part%20of%20a%20SCORM%20package.%22%2C%22msgOnlySaveScore%22%3A%22You%20can%20only%20save%20the%20score%20once%21%22%2C%22msgYouScore%22%3A%22Your%20score%22%2C%22msgOnlySaveAuto%22%3A%22Your%20score%20will%20be%20saved%20after%20each%20change.%20You%20can%20only%20complete%20once.%22%2C%22msgSaveAuto%22%3A%22Your%20score%20will%20be%20automatically%20saved%20after%20each%20change.%22%2C%22msgSeveralScore%22%3A%22You%20can%20save%20the%20score%20as%20many%20times%20as%20you%20want%22%2C%22msgYouLastScore%22%3A%22The%20last%20score%20saved%20is%22%2C%22msgActityComply%22%3A%22You%20have%20already%20done%20this%20activity.%22%2C%22msgPlaySeveralTimes%22%3A%22You%20can%20do%20this%20activity%20as%20many%20times%20as%20you%20want%22%2C%22msgScore%22%3A%22Score%22%2C%22msgWeight%22%3A%22Weight%22%7D%2C%22isScorm%22%3A2%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rubric</li><li class="activity">Activity</li><li class="name">Name</li><li class="date">Date</li><li class="score">Score</li><li class="notes">Notes</li><li class="download">Download</li><li class="msgDelete">Are you sure you want clear all form fields?</li><li class="reset">Reset</li><li class="print">Print</li><li class="apply">Apply</li><li class="newWindow">New Window</li><li class="msgEndGameScore">Please complete the rubric before saving your score.</li><li class="msgScoreScorm">The score can&#39;t be saved because this page is not part of a SCORM package.</li><li class="msgOnlySaveScore">You can only save the score once!</li><li class="msgYouScore">Your score</li><li class="msgOnlySaveAuto">Your score will be saved after each change. You can only complete once.</li><li class="msgSaveAuto">Your score will be automatically saved after each change.</li><li class="msgSeveralScore">You can save the score as many times as you want</li><li class="msgYouLastScore">The last score saved is</li><li class="msgActityComply">You have already done this activity.</li><li class="msgPlaySeveralTimes">You can do this activity as many times as you want</li><li class="msgScore">Score</li><li class="msgWeight">Weight</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780684966256-bgixcrgss</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>b.2. Infografía: Checklist Criterio 2.3</pageName>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>b.2. Infografía: Checklist Criterio 2.3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780684966256-bgixcrgss</odePageId>
+      <odeBlockId>block-1780685626667-3was3whrv</odeBlockId>
+      <blockName>Checklist 2.3</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780684966256-bgixcrgss</odePageId>
+          <odeBlockId>block-1780685626667-3was3whrv</odeBlockId>
+          <odeIdeviceId>idevice-1780685626667-jcvq98sy8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Criterio 2.3: Evaluación mediante Checklist</strong></p>
+<p><br />2.3 Planificar, elaborar y revisar textos adecuados al objetivo y al destinatario, seleccionando y organizando la información de forma clara y utilizando los recursos más adecuados para cada tarea. </p>
+<p><strong>PLANIFICAR  (Selección consciente de información – inferida del producto)</strong></p>
+<p>☐ Selecciona solo información relevante para un intercambio cultural.<br /> ☐ Incluye aspectos de cultura visible (comida, escuela, idioma…).<br /> ☐ Incluye aspectos menos visibles (valores, hábitos, comportamiento).<br /> ☐ No incluye información aleatoria o fuera de contexto.<br /> ☐ La información se entiende sin explicaciones extra.</p>
+<p> <br /><strong>PRODUCIR  (Organización y aplicación de estrategias propias de la infografía)</strong></p>
+<p>☐ Presenta la información en secciones claras (títulos o bloques).<br /> ☐ Las ideas están ordenadas y no mezcladas.<br /> ☐ El contenido está adaptado al objetivo: información cultural y comparación con España.<br /> ☐ Usa estrategias de síntesis (palabras clave, ideas clave, bullet points).<br /> ☐ El nivel lingüístico es adecuado (A2).</p>
+<p> <br /><strong>REVISAR  (Control final de claridad y coherencia)</strong></p>
+<p>☐ No hay información innecesaria o repetida.<br /> ☐ El contenido está claramente relacionado con el país elegido.<br /> ☐ No hay errores ortográficos que dificulten la comprensión.<br /> ☐ No hay elementos descolocados o fuera de su sitio.<br /> ☐ No hay duplicaciones.</p>
+<p>Puntuación obtenida: _____ / 15</p>
+<p>Cálculo nota: puntuación obtenida / 15 x 10</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780685626667-jcvq98sy8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Criterio 2.3: Evaluación mediante Checklist</strong></p>\n<p><br />2.3 Planificar, elaborar y revisar textos adecuados al objetivo y al destinatario, seleccionando y organizando la información de forma clara y utilizando los recursos más adecuados para cada tarea. </p>\n<p><strong>PLANIFICAR  (Selección consciente de información – inferida del producto)</strong></p>\n<p>☐ Selecciona solo información relevante para un intercambio cultural.<br /> ☐ Incluye aspectos de cultura visible (comida, escuela, idioma…).<br /> ☐ Incluye aspectos menos visibles (valores, hábitos, comportamiento).<br /> ☐ No incluye información aleatoria o fuera de contexto.<br /> ☐ La información se entiende sin explicaciones extra.</p>\n<p> <br /><strong>PRODUCIR  (Organización y aplicación de estrategias propias de la infografía)</strong></p>\n<p>☐ Presenta la información en secciones claras (títulos o bloques).<br /> ☐ Las ideas están ordenadas y no mezcladas.<br /> ☐ El contenido está adaptado al objetivo: información cultural y comparación con España.<br /> ☐ Usa estrategias de síntesis (palabras clave, ideas clave, bullet points).<br /> ☐ El nivel lingüístico es adecuado (A2).</p>\n<p> <br /><strong>REVISAR  (Control final de claridad y coherencia)</strong></p>\n<p>☐ No hay información innecesaria o repetida.<br /> ☐ El contenido está claramente relacionado con el país elegido.<br /> ☐ No hay errores ortográficos que dificulten la comprensión.<br /> ☐ No hay elementos descolocados o fuera de su sitio.<br /> ☐ No hay duplicaciones.</p>\n<p>Puntuación obtenida: _____ / 15</p>\n<p>Cálculo nota: puntuación obtenida / 15 x 10</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780681008830-kbz2cxk0o</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>c. Presentación oral</pageName>
+  <odeNavStructureOrder>25</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>c. Presentación oral</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780681008830-kbz2cxk0o</odePageId>
+      <odeBlockId>block-1780681742988-29jgplruw</odeBlockId>
+      <blockName>Evaluación Presentación oral</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780681008830-kbz2cxk0o</odePageId>
+          <odeBlockId>block-1780681742988-29jgplruw</odeBlockId>
+          <odeIdeviceId>idevice-1780681742986-qdby8v0cu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>3. Diana de Presentación Oral</strong></p>
+<p style="text-align: justify;"><strong>Cuándo se utiliza</strong><br />Durante la presentación oral de la infografía Cultural Iceberg ante el resto de la clase, en la fase final de la Situación de Aprendizaje.</p>
+<p style="text-align: justify;"><strong>Qué evalúa</strong><br /><strong>Criterio 2.1</strong></p>
+<ul style="text-align: justify;">
+<li>Claridad de la exposición.</li>
+<li>Uso adecuado del inglés (nivel A2).</li>
+<li>Utilización de recursos verbales y no verbales (pronunciación, volumen, contacto visual, apoyo visual).</li>
+</ul>
+<p style="text-align: justify;"><br /><strong>Criterio 6.3</strong></p>
+<ul style="text-align: justify;">
+<li>Explicación y valoración de aspectos culturales visibles e invisibles.</li>
+<li>Capacidad para comparar culturas y utilizar la lengua extranjera como instrumento de intercambio cultural.</li>
+</ul>
+<p style="text-align: justify;"><br /><strong>Cómo se recogen los datos</strong><br />Mediante observación directa durante la presentación oral.</p>
+<p style="text-align: justify;">La puntuación se registra en una diana de evaluación digital elaborada por la docente. Cada indicador se valora en una escala de 1 a 5 puntos.</p>
+<p style="text-align: justify;">Posteriormente, los resultados se trasladan a una hoja de cálculo para calcular automáticamente la puntuación obtenida y la calificación correspondiente.</p>
+<p style="text-align: justify;"><strong>Variables</strong></p>
+<ul style="text-align: justify;">
+<li>Diferentes niveles de competencia comunicativa en inglés.</li>
+<li>Nervios o ansiedad al hablar en público.</li>
+<li>Diferente grado de participación dentro del grupo.</li>
+<li>Diferentes niveles de competencia intercultural.</li>
+<li>Dificultades de pronunciación o expresión oral propias del nivel A2.</li>
+<li>Posibles incidencias técnicas durante el uso de la presentación digital.</li>
+</ul>
+<p style="text-align: justify;"><strong>Medidas</strong></p>
+<ul style="text-align: justify;">
+<li>Proporcionar previamente una guía con los aspectos que serán evaluados.</li>
+<li>Permitir ensayos previos de la presentación.</li>
+<li>Facilitar vocabulario y estructuras lingüísticas de apoyo.</li>
+<li>Valorar prioritariamente la capacidad comunicativa y la transmisión del mensaje frente a la perfección gramatical.</li>
+<li>Utilizar presentaciones visuales de apoyo (Canva, Genially o PowerPoint).</li>
+<li>Disponer de alternativas en caso de problemas técnicos (presentación descargada en formato PDF o almacenada en un dispositivo USB).</li>
+<li>Fomentar un clima de respeto y escucha activa durante las exposiciones para reducir la ansiedad del alumnado.</li>
+</ul>
+<p style="text-align: justify;"><strong>Cálculo de la calificación</strong></p>
+<p style="text-align: justify;">Como la diana evalúa dos criterios distintos, lo más coherente es calcularlos por separado.</p>
+<p style="text-align: justify;">Tienes 5 indicadores:</p>
+<p style="text-align: justify;"><strong>Criterio 2.1</strong></p>
+<ol style="text-align: justify;">
+<li>Claridad de la exposición</li>
+<li>Uso del inglés</li>
+<li>Recursos verbales y no verbales</li>
+</ol>
+<p style="text-align: justify;">Máximo: 15 puntos (3 indicadores × 5 puntos)<br />Se calcula: puntuación obtenida / 15 x 10</p>
+<p style="text-align: justify;"> <strong>Criterio 6.3</strong></p>
+<ol style="text-align: justify;">
+<li>Explicación de aspectos culturales</li>
+<li>Comparación e intercambio cultural</li>
+</ol>
+<p style="text-align: justify;">Máximo: 10 puntos (2 indicadores × 5 puntos)<br />Se calcula: puntuación obtenida / 15 x 10<br /></p>
+<p style="text-align: justify;"><strong>Tratamiento y validación de los datos</strong><br />Las puntuaciones obtenidas en la diana se registrarán en una hoja de cálculo digital, donde se calcularán automáticamente las calificaciones correspondientes a los criterios 2.1 y 6.3.</p>
+<p style="text-align: justify;">Para garantizar la validez de los datos, la evaluación se realizará utilizando indicadores previamente definidos y conocidos por el alumnado. Además, la observación se centrará en evidencias observables (claridad de la exposición, uso del inglés, recursos verbales y no verbales, explicación cultural y comparación intercultural), reduciendo la subjetividad en la valoración.</p>
+<p style="text-align: justify;">Los resultados obtenidos mediante este instrumento se contrastarán posteriormente con los datos procedentes del cuestionario de comprensión del corto New Boy y de la evaluación de la infografía (rúbrica y checklist). Esta triangulación permitirá verificar la coherencia de las evidencias recogidas y obtener una visión más completa del aprendizaje del alumnado.</p>
+<p style="text-align: justify;">La información recogida se almacenará únicamente con fines educativos y de evaluación, respetando las normas de protección de datos y utilizando exclusivamente las herramientas digitales autorizadas por el centro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780681742986-qdby8v0cu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>3. Diana de Presentación Oral</strong></p>\n<p style=\"text-align: justify;\"><strong>Cuándo se utiliza</strong><br />Durante la presentación oral de la infografía Cultural Iceberg ante el resto de la clase, en la fase final de la Situación de Aprendizaje.</p>\n<p style=\"text-align: justify;\"><strong>Qué evalúa</strong><br /><strong>Criterio 2.1</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Claridad de la exposición.</li>\n<li>Uso adecuado del inglés (nivel A2).</li>\n<li>Utilización de recursos verbales y no verbales (pronunciación, volumen, contacto visual, apoyo visual).</li>\n</ul>\n<p style=\"text-align: justify;\"><br /><strong>Criterio 6.3</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Explicación y valoración de aspectos culturales visibles e invisibles.</li>\n<li>Capacidad para comparar culturas y utilizar la lengua extranjera como instrumento de intercambio cultural.</li>\n</ul>\n<p style=\"text-align: justify;\"><br /><strong>Cómo se recogen los datos</strong><br />Mediante observación directa durante la presentación oral.</p>\n<p style=\"text-align: justify;\">La puntuación se registra en una diana de evaluación digital elaborada por la docente. Cada indicador se valora en una escala de 1 a 5 puntos.</p>\n<p style=\"text-align: justify;\">Posteriormente, los resultados se trasladan a una hoja de cálculo para calcular automáticamente la puntuación obtenida y la calificación correspondiente.</p>\n<p style=\"text-align: justify;\"><strong>Variables</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Diferentes niveles de competencia comunicativa en inglés.</li>\n<li>Nervios o ansiedad al hablar en público.</li>\n<li>Diferente grado de participación dentro del grupo.</li>\n<li>Diferentes niveles de competencia intercultural.</li>\n<li>Dificultades de pronunciación o expresión oral propias del nivel A2.</li>\n<li>Posibles incidencias técnicas durante el uso de la presentación digital.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Medidas</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Proporcionar previamente una guía con los aspectos que serán evaluados.</li>\n<li>Permitir ensayos previos de la presentación.</li>\n<li>Facilitar vocabulario y estructuras lingüísticas de apoyo.</li>\n<li>Valorar prioritariamente la capacidad comunicativa y la transmisión del mensaje frente a la perfección gramatical.</li>\n<li>Utilizar presentaciones visuales de apoyo (Canva, Genially o PowerPoint).</li>\n<li>Disponer de alternativas en caso de problemas técnicos (presentación descargada en formato PDF o almacenada en un dispositivo USB).</li>\n<li>Fomentar un clima de respeto y escucha activa durante las exposiciones para reducir la ansiedad del alumnado.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Cálculo de la calificación</strong></p>\n<p style=\"text-align: justify;\">Como la diana evalúa dos criterios distintos, lo más coherente es calcularlos por separado.</p>\n<p style=\"text-align: justify;\">Tienes 5 indicadores:</p>\n<p style=\"text-align: justify;\"><strong>Criterio 2.1</strong></p>\n<ol style=\"text-align: justify;\">\n<li>Claridad de la exposición</li>\n<li>Uso del inglés</li>\n<li>Recursos verbales y no verbales</li>\n</ol>\n<p style=\"text-align: justify;\">Máximo: 15 puntos (3 indicadores × 5 puntos)<br />Se calcula: puntuación obtenida / 15 x 10</p>\n<p style=\"text-align: justify;\"> <strong>Criterio 6.3</strong></p>\n<ol style=\"text-align: justify;\">\n<li>Explicación de aspectos culturales</li>\n<li>Comparación e intercambio cultural</li>\n</ol>\n<p style=\"text-align: justify;\">Máximo: 10 puntos (2 indicadores × 5 puntos)<br />Se calcula: puntuación obtenida / 15 x 10<br /></p>\n<p style=\"text-align: justify;\"><strong>Tratamiento y validación de los datos</strong><br />Las puntuaciones obtenidas en la diana se registrarán en una hoja de cálculo digital, donde se calcularán automáticamente las calificaciones correspondientes a los criterios 2.1 y 6.3.</p>\n<p style=\"text-align: justify;\">Para garantizar la validez de los datos, la evaluación se realizará utilizando indicadores previamente definidos y conocidos por el alumnado. Además, la observación se centrará en evidencias observables (claridad de la exposición, uso del inglés, recursos verbales y no verbales, explicación cultural y comparación intercultural), reduciendo la subjetividad en la valoración.</p>\n<p style=\"text-align: justify;\">Los resultados obtenidos mediante este instrumento se contrastarán posteriormente con los datos procedentes del cuestionario de comprensión del corto New Boy y de la evaluación de la infografía (rúbrica y checklist). Esta triangulación permitirá verificar la coherencia de las evidencias recogidas y obtener una visión más completa del aprendizaje del alumnado.</p>\n<p style=\"text-align: justify;\">La información recogida se almacenará únicamente con fines educativos y de evaluación, respetando las normas de protección de datos y utilizando exclusivamente las herramientas digitales autorizadas por el centro.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780685762560-epq9zc5ny</odePageId>
+  <odeParentPageId>page-1780680640671-da4hekaly</odeParentPageId>
+  <pageName>c.1. Diana: Criterios 2.1, 6.3</pageName>
+  <odeNavStructureOrder>26</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>c.1. Diana: Criterios 2.1, 6.3</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>c.1. Diana: Criterios 2.1, 6.3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780685762560-epq9zc5ny</odePageId>
+      <odeBlockId>block-1780685905161-yosgyykcs</odeBlockId>
+      <blockName>Diana: Presentación oral</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780685762560-epq9zc5ny</odePageId>
+          <odeBlockId>block-1780685905161-yosgyykcs</odeBlockId>
+          <odeIdeviceId>idevice-1780685905159-an1iobar1</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780685905159-an1iobar1" title="Diana Presentación oral" href="{{context_path}}/content/resources/Evaluación Presentación Oral Diana.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Evaluación Presentación Oral Diana.jpg" height="128" width="128" title="Diana Presentación oral" alt="Diana Presentación oral" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/lk3i1bpmhs6uk87" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780685905159-an1iobar1","img_0":{"img":"blob:app://localhost/12cca6df-09b2-418e-8063-e3ba5f2203a1","thumbnail":"blob:app://localhost/12cca6df-09b2-418e-8063-e3ba5f2203a1","title":"Diana Presentación oral","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/lk3i1bpmhs6uk87","license":"CC-BY-SA"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780688604644-hipvbnm00</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Creditos</pageName>
+  <odeNavStructureOrder>24</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Creditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780688604644-hipvbnm00</odePageId>
+      <odeBlockId>block-1780688626124-tah53h5a0</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780688604644-hipvbnm00</odePageId>
+          <odeBlockId>block-1780688626124-tah53h5a0</odeBlockId>
+          <odeIdeviceId>idevice-1780688626123-zvy7avcve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría: Steffi Gebhardt</strong></p>
+<p><br /><strong>Descripción del recurso:</strong></p>
+<ul>
+<li>Licencia CC BY-SA 4.0 (o la que hayas elegido)</li>
+<li>Recursos utilizados (Padlet, Symbaloo, Canva, Genially, etc.)</li>
+<li>Botón o enlace de descarga del archivo editable (.elp)</li>
+</ul>
+<p><strong>Imagen "The Cultural Iceberg Concept"</strong><br />Creada mediante ChatGPT (OpenAI) a partir de indicaciones de la autora.<br />Adaptada y utilizada con fines educativos.<br />Autoría: Steffi Gebhardt.<br />Licencia: Creative Commons BY-SA 4.0.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780688626123-zvy7avcve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría: Steffi Gebhardt</strong></p>\n<p><br /><strong>Descripción del recurso:</strong></p>\n<ul>\n<li>Licencia CC BY-SA 4.0 (o la que hayas elegido)</li>\n<li>Recursos utilizados (Padlet, Symbaloo, Canva, Genially, etc.)</li>\n<li>Botón o enlace de descarga del archivo editable (.elp)</li>\n</ul>\n<p><strong>Imagen \"The Cultural Iceberg Concept\"</strong><br />Creada mediante ChatGPT (OpenAI) a partir de indicaciones de la autora.<br />Adaptada y utilizada con fines educativos.<br />Autoría: Steffi Gebhardt.<br />Licencia: Creative Commons BY-SA 4.0.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780688604644-hipvbnm00</odePageId>
+      <odeBlockId>block-1780690451628-qxfwxvbfc</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780688604644-hipvbnm00</odePageId>
+          <odeBlockId>block-1780690451628-qxfwxvbfc</odeBlockId>
+          <odeIdeviceId>idevice-1780690451626-3dz0wnucp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>General information about this educational resource</caption>
+<tbody>
+<tr>
+<th>Title</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">The Cultural Iceberg Project: Understanding visible and invisible culture</span></td>
+</tr>
+<tr>
+<th>Description</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">The Cultural Iceberg is a project-based learning resource designed for 2nd year secondary students (2º ESO). Through the exploration of Commonwealth cultures, learners discover both visible and invisible aspects of culture using the Cultural Iceberg model. The project promotes intercultural awareness, critical thinking, communication skills and respect for diversity. Students analyse texts and videos, compare cultures, collaborate in groups and create a digital infographic to present their findings. The resource integrates digital tools such as Google Classroom, Canva and Genially while encouraging responsible, safe and creative use of technology.</span></td>
+</tr>
+<tr>
+<th>Authorship</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Steffi Gebhardt</span></td>
+</tr>
+<tr>
+<th>License</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
