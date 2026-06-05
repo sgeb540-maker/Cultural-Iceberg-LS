@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260605222116F1Y2Q7</value>
+    <value>20260605234117BX5MLX</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260605222116KP51Y9</value>
+    <value>20260605234117ZCVC4X</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -147,13 +147,13 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780679730740-922yaylz2" title="The Cultural Iceber Concept" href="{{context_path}}/content/resources/Cultural Iceberg.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Cultural Iceberg.png" height="128" width="128" title="The Cultural Iceber Concept" alt="The Cultural Iceber Concept" titlelink="" author="Steffi Gebhardt / ChatGPT" authorlink="" license="Creative Commons BY-SA 4.0." licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780679730740-922yaylz2" title="Cultural Iceberg" href="{{context_path}}/content/resources/CulturalIceberg.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/CulturalIceberg.png" height="128" width="128" title="Cultural Iceberg" alt="Cultural Iceberg" titlelink="" author="Steffi Gebhardt / ChatGPT" authorlink="" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679730740-922yaylz2","img_0":{"img":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","thumbnail":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","title":"The Cultural Iceber Concept","linktitle":"","author":"Steffi Gebhardt / ChatGPT","linkauthor":"","license":"Creative Commons BY-SA 4.0."}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679730740-922yaylz2","img_0":{"img":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","thumbnail":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","title":"Cultural Iceberg","linktitle":"","author":"Steffi Gebhardt / ChatGPT","linkauthor":"","license":"CC-BY-SA"}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -691,7 +691,7 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780678223810-6v6pnkuxq" title="Digital Safety" href="{{context_path}}/content/resources/Digital Safety.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Digital Safety.jpg" height="128" width="128" title="Digital Safety" alt="Digital Safety" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/rek8fvgqr3c05ss" license="Creative Commons BY-SA 4.0." licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780678223810-6v6pnkuxq" title="Digital Safety" href="{{context_path}}/content/resources/DigitalSafety.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/DigitalSafety.jpg" height="128" width="128" title="Digital Safety" alt="Digital Safety" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/rek8fvgqr3c05ss" license="Creative Commons BY-SA 4.0." licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
@@ -1044,62 +1044,10 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-1780680191410-ni28w8mi3</odePageId>
-      <odeBlockId>block-1780680225417-qpz2juj6l</odeBlockId>
-      <blockName>Línea temporal de la SdA</blockName>
-      <iconName>chrono</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-1780680191410-ni28w8mi3</odePageId>
-          <odeBlockId>block-1780680225417-qpz2juj6l</odeBlockId>
-          <odeIdeviceId>idevice-1780680225415-5pqtykzp7</odeIdeviceId>
-          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
-          <htmlView><![CDATA[<!-- Idevice Example template start -->
-<div class="exe-image-gallery-template">
-  <!-- Idevice content start -->
-  
-            <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780680225415-5pqtykzp7" title="Línea temporal" href="{{context_path}}/content/resources/1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/1.jpg" height="128" width="128" title="Línea temporal" alt="Línea temporal" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/0earndy24sqrvqh" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780680225415-5pqtykzp7" title="Línea temporal 2" href="{{context_path}}/content/resources/2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/2.jpg" height="128" width="128" title="Línea temporal 2" alt="Línea temporal 2" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/0earndy24sqrvqh" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780680225415-5pqtykzp7" title="Línea temporal 3" href="{{context_path}}/content/resources/3.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/3.jpg" height="128" width="128" title="Línea temporal 3" alt="Línea temporal 3" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/0earndy24sqrvqh" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
-                </div>
-            </div>
-  <!-- Idevice content end -->
-</div>
-<!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780680225415-5pqtykzp7","img_0":{"img":"blob:app://localhost/a07219d8-1c27-42db-aa97-26ff6e5a3a5e","thumbnail":"blob:app://localhost/a07219d8-1c27-42db-aa97-26ff6e5a3a5e","title":"Línea temporal","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/0earndy24sqrvqh","license":"CC-BY-SA"},"img_1":{"img":"blob:app://localhost/6c3b891f-1877-403e-8583-6f32e1447637","thumbnail":"blob:app://localhost/6c3b891f-1877-403e-8583-6f32e1447637","title":"Línea temporal 2","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/0earndy24sqrvqh","license":"CC-BY-SA"},"img_2":{"img":"blob:app://localhost/aa02f794-c8d2-4445-bd10-899c5ea23ec8","thumbnail":"blob:app://localhost/aa02f794-c8d2-4445-bd10-899c5ea23ec8","title":"Línea temporal 3","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/0earndy24sqrvqh","license":"CC-BY-SA"}}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-1780680191410-ni28w8mi3</odePageId>
       <odeBlockId>block-1780688323908-kbbytjs5u</odeBlockId>
-      <blockName>Enlace a la línea temporal en Canva</blockName>
+      <blockName>Línea temporal de la SdA</blockName>
       <iconName>share</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1130,8 +1078,17 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p><a href="https://canva.link/0earndy24sqrvqh">https://canva.link/0earndy24sqrvqh</a> </p>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Timeline1.jpg" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/0earndy24sqrvqh" class="author" target="_blank" rel="noopener">Steffi Gebhardt</a>. <span class="title"><em>Timeline1</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Timeline2.jpg" title="Timeline2" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/0earndy24sqrvqh" class="author" target="_blank" rel="noopener">Steffi Gebhardt</a>. <span class="title"><em>Timeline2</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure position-center"><img src="{{context_path}}/content/resources/Timeline3.jpg" title="Timeline3" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/0earndy24sqrvqh" class="author" target="_blank" rel="noopener">Steffi Gebhardt</a>. <span class="title"><em>Timeline3</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780688323907-8mvfav3fe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/0earndy24sqrvqh\">https://canva.link/0earndy24sqrvqh</a> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780688323907-8mvfav3fe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/0earndy24sqrvqh\">https://canva.link/0earndy24sqrvqh</a> </p>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Timeline1.jpg\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/0earndy24sqrvqh\" class=\"author\" target=\"_blank\" rel=\"noopener\">Steffi Gebhardt</a>. <span class=\"title\"><em>Timeline1</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Timeline2.jpg\" title=\"Timeline2\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/0earndy24sqrvqh\" class=\"author\" target=\"_blank\" rel=\"noopener\">Steffi Gebhardt</a>. <span class=\"title\"><em>Timeline2</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure position-center\"><img src=\"{{context_path}}/content/resources/Timeline3.jpg\" title=\"Timeline3\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/0earndy24sqrvqh\" class=\"author\" target=\"_blank\" rel=\"noopener\">Steffi Gebhardt</a>. <span class=\"title\"><em>Timeline3</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1765,10 +1722,10 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-1780685762560-epq9zc5ny</odePageId>
-      <odeBlockId>block-1780685905161-yosgyykcs</odeBlockId>
-      <blockName>Diana: Presentación oral</blockName>
-      <iconName>objetives</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
+      <odeBlockId>block-1780695489837-t3y6cw5eo</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1794,21 +1751,21 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-1780685762560-epq9zc5ny</odePageId>
-          <odeBlockId>block-1780685905161-yosgyykcs</odeBlockId>
-          <odeIdeviceId>idevice-1780685905159-an1iobar1</odeIdeviceId>
+          <odeBlockId>block-1780695489837-t3y6cw5eo</odeBlockId>
+          <odeIdeviceId>idevice-1780695489835-7wi367j8v</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
           <htmlView><![CDATA[<!-- Idevice Example template start -->
 <div class="exe-image-gallery-template">
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780685905159-an1iobar1" title="Diana Presentación oral" href="{{context_path}}/content/resources/Evaluación Presentación Oral Diana.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Evaluación Presentación Oral Diana.jpg" height="128" width="128" title="Diana Presentación oral" alt="Diana Presentación oral" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/lk3i1bpmhs6uk87" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780695489835-7wi367j8v" title="Diana" href="{{context_path}}/content/resources/DIANA.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/DIANA.jpg" height="128" width="128" title="Diana" alt="Diana" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/lk3i1bpmhs6uk87" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780685905159-an1iobar1","img_0":{"img":"blob:app://localhost/12cca6df-09b2-418e-8063-e3ba5f2203a1","thumbnail":"blob:app://localhost/12cca6df-09b2-418e-8063-e3ba5f2203a1","title":"Diana Presentación oral","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/lk3i1bpmhs6uk87","license":"CC-BY-SA"}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780695489835-7wi367j8v","img_0":{"img":"{{context_path}}/content/resources/DIANA.jpg","thumbnail":"{{context_path}}/content/resources/DIANA.jpg","title":"Diana","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/lk3i1bpmhs6uk87","license":"CC-BY-SA"}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
