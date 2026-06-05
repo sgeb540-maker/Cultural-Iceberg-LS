@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260605234117BX5MLX</value>
+    <value>202606052350437XI6V3</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260605234117ZCVC4X</value>
+    <value>2026060523504342PZOW</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -110,10 +110,10 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-1780677451542-ijdtr6qco</odePageId>
-      <odeBlockId>block-1780679730741-ud8aildnc</odeBlockId>
-      <blockName>The Cultural Iceberg Concept</blockName>
-      <iconName>technology</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odeBlockId>block-1780696040454-i1af20fhz</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -139,21 +139,15 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-1780677451542-ijdtr6qco</odePageId>
-          <odeBlockId>block-1780679730741-ud8aildnc</odeBlockId>
-          <odeIdeviceId>idevice-1780679730740-922yaylz2</odeIdeviceId>
-          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
-          <htmlView><![CDATA[<!-- Idevice Example template start -->
-<div class="exe-image-gallery-template">
-  <!-- Idevice content start -->
-  
-            <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780679730740-922yaylz2" title="Cultural Iceberg" href="{{context_path}}/content/resources/CulturalIceberg.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/CulturalIceberg.png" height="128" width="128" title="Cultural Iceberg" alt="Cultural Iceberg" titlelink="" author="Steffi Gebhardt / ChatGPT" authorlink="" license="CC-BY-SA" licenselink="http://creativecommons.org/licenses/"/>  </div> </a></div>
-                </div>
-            </div>
-  <!-- Idevice content end -->
-</div>
-<!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780679730740-922yaylz2","img_0":{"img":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","thumbnail":"blob:app://localhost/4707bd84-f053-46a6-8310-0ea5ead23099","title":"Cultural Iceberg","linktitle":"","author":"Steffi Gebhardt / ChatGPT","linkauthor":"","license":"CC-BY-SA"}}]]></jsonProperties>
+          <odeBlockId>block-1780696040454-i1af20fhz</odeBlockId>
+          <odeIdeviceId>idevice-1780696040449-iuy4ywcix</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1278px;"><img src="{{context_path}}/content/resources/CulturalIceberg.png" width="1278" height="1023" alt="" />
+<figcaption class="figcaption"><span class="author">Steffi Gebhardt / Chat GPT</span>. <span class="title"><em>Cultural Iceberg</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780696040449-iuy4ywcix","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1278px;\"><img src=\"{{context_path}}/content/resources/CulturalIceberg.png\" width=\"1278\" height=\"1023\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Steffi Gebhardt / Chat GPT</span>. <span class=\"title\"><em>Cultural Iceberg</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -654,10 +648,10 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-1780678219884-they5mr6d</odePageId>
-      <odeBlockId>block-1780678223812-cudplpm3w</odeBlockId>
+      <odeBlockId>block-1780696120172-qf5bzpgw8</odeBlockId>
       <blockName>Digital Safety</blockName>
-      <iconName>info</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -683,21 +677,15 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-1780678219884-they5mr6d</odePageId>
-          <odeBlockId>block-1780678223812-cudplpm3w</odeBlockId>
-          <odeIdeviceId>idevice-1780678223810-6v6pnkuxq</odeIdeviceId>
-          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
-          <htmlView><![CDATA[<!-- Idevice Example template start -->
-<div class="exe-image-gallery-template">
-  <!-- Idevice content start -->
-  
-            <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780678223810-6v6pnkuxq" title="Digital Safety" href="{{context_path}}/content/resources/DigitalSafety.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/DigitalSafety.jpg" height="128" width="128" title="Digital Safety" alt="Digital Safety" titlelink="" author="Steffi Gebhardt" authorlink="https://canva.link/rek8fvgqr3c05ss" license="Creative Commons BY-SA 4.0." licenselink=""/>  </div> </a></div>
-                </div>
-            </div>
-  <!-- Idevice content end -->
-</div>
-<!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780678223810-6v6pnkuxq","img_0":{"img":"blob:app://localhost/14450bc2-9408-4f13-a0a3-5e3660e16563","thumbnail":"blob:app://localhost/14450bc2-9408-4f13-a0a3-5e3660e16563","title":"Digital Safety","linktitle":"","author":"Steffi Gebhardt","linkauthor":"https://canva.link/rek8fvgqr3c05ss","license":"Creative Commons BY-SA 4.0."}}]]></jsonProperties>
+          <odeBlockId>block-1780696120172-qf5bzpgw8</odeBlockId>
+          <odeIdeviceId>idevice-1780696120171-8w59ojgdj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/DigitalSafety.jpg" width="800" height="2000" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/rek8fvgqr3c05ss" class="author" target="_blank" rel="noopener">Steffi Gebhardt</a>. <span class="title"><em>Digital Safety</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780696120171-8w59ojgdj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/DigitalSafety.jpg\" width=\"800\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/rek8fvgqr3c05ss\" class=\"author\" target=\"_blank\" rel=\"noopener\">Steffi Gebhardt</a>. <span class=\"title\"><em>Digital Safety</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
